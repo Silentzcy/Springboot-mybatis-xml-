@@ -1,0 +1,2 @@
+
+springboot整合mybatis 使用MySql数据库和阿里的druid连接池，mybatis使用xml配置方式，用MBG代码生成工具
